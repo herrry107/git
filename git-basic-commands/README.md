@@ -59,8 +59,8 @@ git reset filename
 <pre><code>
 echo "hello" > file1.txt
 git add .
-git commit -m "wrong commit"
-git checkout commit-id         #revert to that commit
+git commit -m "wrong commit1"
+git reset right-commit-id         #revert to that previous right commit
 </code></pre>
 
-![Alt-text](https://github.com/herrry107/git/blob/main/images/image1.png)
+![Alt-text](https://github.com/herrry107/git/blob/main/images/image2.png)
