@@ -41,3 +41,13 @@ git push -u origin main
 </code></pre>
 
 ![Alt-text](https://github.com/herrry107/git/blob/main/images/git-workflow.png)
+
+**if by mistake we run "git add ." or "git add file1.txt" but now we want to untrack it**
+
+<pre><code>
+echo "hello" > file1.txt
+git add .
+git status      #add files by mistake
+git reset       #untrack file 
+git reset filename
+</code></pre>
