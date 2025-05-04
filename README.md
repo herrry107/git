@@ -18,3 +18,8 @@ Git is a distributed version control system used to track changes in source code
 - DVCS system are working fine on offline mode as a client copies the entire repository on their local machine.
 - It is faster because it uses offline.
 - If DVCS server is down, developer can work using their local copies.
+
+# Read All Git Docs by these sequence
+[1) Git Basic Commands](https://github.com/herrry107/Jenkins/tree/main/git-basic-commands)
+
+[2) Git Branch](https://github.com/herrry107/Jenkins/tree/main/branch)
