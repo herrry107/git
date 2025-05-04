@@ -45,6 +45,7 @@ suppose we have some changed in **branch feature** now we want to merge our **fe
 git checkout main        #go to main branch
 git merge feature1       #merge feature branch to main
 git branch -d feature1   #(optional) if we want to delete branch feature
+git log                  #To verify merge
 </code></pre>
 
 ![git-reset](https://github.com/herrry107/git/blob/main/images/branch-strategies.png)
