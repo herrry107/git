@@ -20,6 +20,6 @@ Git is a distributed version control system used to track changes in source code
 - If DVCS server is down, developer can work using their local copies.
 
 # Read All Git Docs by these sequence
-[1) Git Basic Commands](https://github.com/herrry107/Jenkins/tree/main/git-basic-commands)
+[1) Git Basic Commands](https://github.com/herrry107/git/tree/main/git-basic-commands)
 
-[2) Git Branch](https://github.com/herrry107/Jenkins/tree/main/branch)
+[2) Git Branch](https://github.com/herrry107/git/tree/main/branch)
