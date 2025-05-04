@@ -40,7 +40,7 @@ git push -u origin main
 
 </code></pre>
 
-![Alt-text](https://github.com/herrry107/git/blob/main/images/git-workflow.png)
+![git-workflow](https://github.com/herrry107/git/blob/main/images/git-workflow.png)
 
 **if by mistake we run "git add ." or "git add file1.txt" but now we want to untrack it**
 
@@ -52,7 +52,7 @@ git reset       #untrack file
 git reset filename
 </code></pre>
 
-![Alt-text](https://github.com/herrry107/git/blob/main/images/image1.png)
+![git-reset](https://github.com/herrry107/git/blob/main/images/image1.png)
 
 **if by mistake we run "git commit" but now we want to revert or need to go previous commit**
 
@@ -63,4 +63,4 @@ git commit -m "wrong commit1"
 git reset right-commit-id         #revert to that previous right commit
 </code></pre>
 
-![Alt-text](https://github.com/herrry107/git/blob/main/images/image2.png)
+![git-reset](https://github.com/herrry107/git/blob/main/images/image2.png)
