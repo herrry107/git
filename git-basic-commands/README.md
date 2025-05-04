@@ -39,3 +39,5 @@ git log
 git push -u origin main
 
 </code></pre>
+
+![Alt-text](https://github.com/herrry107/git/blob/main/images/git-workflow.png)
