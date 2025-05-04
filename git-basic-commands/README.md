@@ -51,3 +51,16 @@ git status      #add files by mistake
 git reset       #untrack file 
 git reset filename
 </code></pre>
+
+![Alt-text](https://github.com/herrry107/git/blob/main/images/image1.png)
+
+**if by mistake we run "git commit" but now we want to revert or need to go previous commit**
+
+<pre><code>
+echo "hello" > file1.txt
+git add .
+git commit -m "wrong commit"
+git checkout commit-id         #revert to that commit
+</code></pre>
+
+![Alt-text](https://github.com/herrry107/git/blob/main/images/image1.png)
