@@ -70,3 +70,17 @@ git reset right-commit-id         #revert to that previous right commit
 It creates a local repo automatically in machine with the same name as in github account.
 
 <pre><code>git clone https://github.com/herrry107/git.git</code></pre>
+
+# Get Restore
+
+Resets the file to match the latest commit
+<pre><code>
+#git restore filename
+git restore index.html
+</code></pre>
+
+Unstage a file (remove from staging, keep local changes)
+<pre><code>
+#git restore --staged filename
+git restore --staged index.html
+</code></pre>
