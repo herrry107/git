@@ -14,3 +14,12 @@ To reset the changes from both stagging area and working directory at a time.
 <pre><code>
 git reset --hard
 </code></pre>
+
+To remove untracked files
+<pre><code>
+#dry run 
+git clean -n
+
+#forcefully
+git clean -f
+</code></pre>
