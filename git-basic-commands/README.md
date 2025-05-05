@@ -64,3 +64,9 @@ git reset right-commit-id         #revert to that previous right commit
 </code></pre>
 
 ![git-reset](https://github.com/herrry107/git/blob/main/images/image2.png)
+
+# Git Clone
+
+It creates a local repo automatically in machine with the same name as in github account.
+
+<pre><code>git clone https://github.com/herrry107/git.git</code></pre>
