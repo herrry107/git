@@ -23,3 +23,5 @@ Git is a distributed version control system used to track changes in source code
 [1) Git Basic Commands](https://github.com/herrry107/git/tree/main/git-basic-commands)
 
 [2) Git Branch](https://github.com/herrry107/git/tree/main/branch)
+
+[3) Git Conflict and Stashing](https://github.com/herrry107/git/tree/main/conflict-stashing)
