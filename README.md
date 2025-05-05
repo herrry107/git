@@ -29,3 +29,5 @@ Git is a distributed version control system used to track changes in source code
 [4) Git Reset](https://github.com/herrry107/git/tree/main/reset)
 
 [5) Git Revert](https://github.com/herrry107/git/tree/main/revert)
+
+[6) Git Revert](https://github.com/herrry107/git/tree/main/tags)
